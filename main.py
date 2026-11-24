@@ -11,8 +11,8 @@ import sys
 from pathlib import Path
 
 EXCUSE = (
-    "I didn't lose your task, I promoted it to a long-term "
-    "strategic initiative and gave it its own calendar invite."
+    "I spent all night optimizing the plan to do your task, "
+    "and by morning the plan was too magnificent to ruin by running."
 )
 
 CEILING = 200
